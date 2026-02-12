@@ -104,9 +104,10 @@ This migration pattern is applicable across industries: retail (sales data wareh
 - Table mapping rules offer flexibility for schema-level and pattern-based migrations
 - CloudShell provides efficient environment for database administration without EC2 instances
 
+## Acknowledgments
+
+Special thanks to **Workshop M&O** for providing comprehensive hands-on AWS training materials and guided laboratory environment.
 
 ---
 
-
-*This project is for educational and portfolio demonstration purposes.*
-
+*This project is for educational purposes.*
